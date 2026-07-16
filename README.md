@@ -108,9 +108,33 @@ http://127.0.0.1:8000/
 
 ## 📸 Screenshots
 
-Screenshots will be added soon.
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
 
 ---
+
+### 🔍 Product Search
+
+![Search](screenshots/search.png)
+
+---
+
+### 📄 Product Details
+
+![Product Details](screenshots/product-details.png)
+
+---
+
+### 🛒 Shopping Cart
+
+![Shopping Cart](screenshots/cart.png)
+
+---
+
+### 👨‍💼 Django Admin Panel
+
+![Admin Panel](screenshots/admin.png)
 
 ## 🔮 Future Enhancements
 
